@@ -1,6 +1,6 @@
 # Sure! Here's a day-by-day plan based on the condensed roadmap to prepare for an internship in React development:
 
-## Week 1:
+Week 1:
 - Day 1-2: Review React fundamentals, including components, state, props, and JSX.
 - Day 3-4: Practice building simple applications with React to reinforce your knowledge.
 - Day 5-7: Work on personal projects showcasing your understanding of React basics.
